@@ -1,0 +1,6 @@
+https://www.anaconda.com/products/individual
+
+
+ $ pip install -r requirements.txt
+ $ python proxy_check.py
+ $ python youtube_viewer.py
